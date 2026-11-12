@@ -1,0 +1,5 @@
+# Install torch and torchvision using the official selector for your OS,
+# Python version, CUDA/ROCm version and hardware:
+# https://pytorch.org/get-started/locally/
+torch
+torchvision

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.log
+errors.log
+Fundo Removido/
+*.pt
+*.pth
+*.safetensors
+*.onnx
+.DS_Store
+Thumbs.db

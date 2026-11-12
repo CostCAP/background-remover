@@ -1,0 +1,5 @@
+# Optional HEIF/HEIC image support
+pillow-heif
+
+# Optional Windows Credential Manager integration
+keyring
